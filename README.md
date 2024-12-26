@@ -18,6 +18,13 @@ Backend: PHP
 Database: SQL
 
 Highlights
+
 Optimized database design for efficient data retrieval and storage.
+
 Intuitive UI/UX for better user experience.
+
 Secure authentication and feedback handling.
+
+mess-management-system Homepage-![Screenshot 2024-12-26 201913](https://github.com/user-attachments/assets/fe5bf0a9-0659-4616-a890-e11256aeac1c)
+mess-management-system-services-![Screenshot 2024-12-26 202807](https://github.com/user-attachments/assets/2c93ecac-4f03-439c-8a17-66a6de57b14f)
+
