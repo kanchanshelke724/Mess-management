@@ -12,7 +12,9 @@ Feedback Collection: Allows users to submit feedback for continuous improvement.
 
 Tech Stack
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: SQL
 
 Highlights
